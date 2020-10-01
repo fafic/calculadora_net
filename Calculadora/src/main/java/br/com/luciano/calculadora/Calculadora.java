@@ -1,14 +1,18 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package br.com.luciano.calculadora;
 
 /**
  *
- * @author Luciano
+ * @author Sosly
  */
 public class Calculadora {
     
+    
+
+    //Ana Soslyne
+    public float somar(float n1, float n2) {
+        return n1 + n2;
+    }
+
+    
+
 }
