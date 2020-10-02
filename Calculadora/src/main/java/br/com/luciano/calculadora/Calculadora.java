@@ -1,5 +1,7 @@
 package br.com.luciano.calculadora;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Sosly
@@ -17,5 +19,18 @@ public class Calculadora {
         return a * b;
     }
     
+    
+    public static void Caluladora (String[]p)  {
+        int FiguraGeometrica,Quadrado;
+           FiguraGeometrica quadrado = new Quadrado(10,5);
+
+           System.out.println("Perimetro: " + quadrado.calculaPerimetro());
+           // Saida = Perimetro: 30
+           System.out.println("Area: " + quadrado.calculaArea());
+           // Saida = Area: 50
+              
+        }  
+   } 
+   
 
 }
