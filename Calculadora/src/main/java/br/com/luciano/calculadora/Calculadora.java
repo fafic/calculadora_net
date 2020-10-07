@@ -30,7 +30,11 @@ public class Calculadora {
            // Saida = Area: 50
               
         }  
-   } 
+    
+    public void teste(){
+        System.out.println("Luciano enviou um metodo");
+    }
+} 
    
 
 
