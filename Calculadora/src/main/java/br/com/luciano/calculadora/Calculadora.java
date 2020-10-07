@@ -34,11 +34,19 @@ public class Calculadora {
     public void teste(){
         System.out.println("Luciano enviou um metodo");
     }
+
     
     
     public void AnaTeste(){
         System.out.println("Deu certo, Ana enviou um método!");
     }
+
+    public void mateus(){
+        System.out.println("Mateus enviou um metodo");
+    }
+    
+  
+
 } 
    
 
