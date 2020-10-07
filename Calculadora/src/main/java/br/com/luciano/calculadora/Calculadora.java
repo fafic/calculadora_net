@@ -21,16 +21,16 @@ public class Calculadora {
     
     
     public static void Caluladora (String[]p)  {
-        int FiguraGeometrica,Quadrado;
-           FiguraGeometrica quadrado = new Quadrado(10,5);
+       // int FiguraGeometrica,Quadrado;
+//           FiguraGeometrica quadrado = new Quadrado(10,5);
 
-           System.out.println("Perimetro: " + quadrado.calculaPerimetro());
+        //   System.out.println("Perimetro: " + quadrado.calculaPerimetro());
            // Saida = Perimetro: 30
-           System.out.println("Area: " + quadrado.calculaArea());
+        //   System.out.println("Area: " + quadrado.calculaArea());
            // Saida = Area: 50
               
         }  
    } 
    
 
-}
+
