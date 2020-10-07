@@ -34,6 +34,10 @@ public class Calculadora {
     public void teste(){
         System.out.println("Luciano enviou um metodo");
     }
+    //kassia
+    public void kassia(){
+        System.out.println("Kassia enviou um metodo");
+    }
 } 
    
 
